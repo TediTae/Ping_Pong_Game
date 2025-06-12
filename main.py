@@ -1,7 +1,7 @@
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
-from scoraboard import Scoreboard
+from scoreboard import Scoreboard
 import time
 
 r_paddle = Paddle((350, 0))
